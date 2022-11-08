@@ -7,4 +7,4 @@ En este curso vemos de todo:
 * El flujo de trabajo de github.
 * Buenas practicas.
 * trucos muy locos del profesor.
-
+* creado en platzi 
