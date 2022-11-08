@@ -8,3 +8,5 @@ En este curso vemos de todo:
 * Buenas practicas.
 * trucos muy locos del profesor.
 * creado en platzi 
+* Incluye ejemplos en windows linux y mac
+* disponible
